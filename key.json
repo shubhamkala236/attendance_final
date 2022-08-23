@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "flowing-capsule-357414",
+    "private_key_id": "0d126644d07b7b148b5f646e2bfbd3f201d49e96",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDTNy/watVdI7wT\nOOgoUHqBsVJ9XfrP5Kavo5gWW7rN/KfCP+0yptjBFY3msG2eIJUKTA8JQsLOachV\n30o0nZ4qgFpQZY+MElbKy8AvmWCLTA6U/D5gZmtNu6ri2S/3KtjtqidCTsJLinmq\nbw8hWiRr8RP5mBN+OPEqQXAirqq3X12clXS2bTvuHW3b1WGleiHcpdvGG+4D2vxt\n5DpM2sokLAFjmaIxO4/wKNSmK4iDBMQHvM5jc6di8ZobijoqEW+hqo1U0OAPWBo9\n/Bp2ZyCARjWnI194c7ABR7YZneIqW+W0moksICTgbRUEXhvHSeY/zJoHu0V1/DJe\nfg+T2o63AgMBAAECggEAJh9+6qEN09rgVoPd+3DTO9d6sSAmZiG6KFeZ2udBp25k\nBT6unIba9rbiPvI3RuRQomQqDpzbNpCHVWCRL0AHzVoPcxVxvHGO8tml3bGMaHgY\n5bFFvPafhY9K/9j9vFoif3tHzMMUdLgQz79t9rIjgswns9RMKGs0tFDNYaUvMRuU\nYjrhXafNPGkWruYANQykyjZae2J9EwudMJMcHrLVo41npS+LGEqjARSPtaFe+N+s\nem2SDiRrg09EeCfCv0uN6iB7a8MLA/+Ulf93CzpFbadOzcj1Q5WC9z03YXu2D/1V\n7mp3CljkihsHBKhXX1HqkDSOJMMK1MVBiop2LUy2iQKBgQD14Jyn8c0s/5R/HiSy\nQgMzfzq5rUh3zRv0Dni+iy5NFBTgY5d5QFlapswb1/Bg6fq7B6nxlL6PAcGEsT3P\nJwdaP5hLzFXdH4WQkz+5A6WkQ3B6zeLaQ2MztpS6xd12uixDKcHSEICNUb2J15Nt\n0rXATH8wpqKKKdtX+E+XULSt6wKBgQDb6UMl4IoYJYT94/WnrtiPeBP3iIqP/837\nZ77VE3sCG5pRGMi9BGkHm2TMftNpr7SsLT0pYdFNRyLM6AKkuqm1WBByp5HToIku\nabOMyBqdBseQ+EqatRoKDO4ByGuSgg2z0V5Mvi0F7iKWoVimCrZCFP75doofF2g+\nEE6dJRyTZQKBgQC36PXEOPz694CfRHC2VOIIFtZaI97cnTKXbmuqOni7dpXW8SdP\nrm4nfDOXcAGAvAKq+qSG6ndOiEWzds+ArvS08HR93a0r5HQHG9zCCpRPNZJgiLdy\nAo2lFKBSw8VPFRoecpFjCqzdB5L6E6FWuBDycUWBomJZbc1/E2CVEezTWQKBgQC/\nolfna/Iq9JceAEaT5yPEcilELfJBZfMDv/ZmC+HHhnJFdUmInY1BGcMPCP4GPR0+\nZPXFV/5iTzkeQpf7IMa+xo0evLOxLVYd4fKbHc1DRSMnS5cHlgWo+Hd3ikVjmH2E\nU1DPo3HslwYBKXzsxKzqjQ1cKlZWnbkzTFaVTj/GmQKBgCkIcP8m9cvBKqM0nQJy\n+UaostweTe/nsLlkw85D/FMcnyOveiIqyxCwFRbulmfh5wk40j5f8ldn93iUcdw5\nH7EAqddD0fxfhdwdv58nGtcpGst8OhCXtfVBdMzNwOG7LoKR2u0NiMu/O4NbUF0F\ncMwaki8PjrJN+NS/st6P3TyR\n-----END PRIVATE KEY-----\n",
+    "client_email": "employee-attendance@flowing-capsule-357414.iam.gserviceaccount.com",
+    "client_id": "111181667315124612516",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/employee-attendance%40flowing-capsule-357414.iam.gserviceaccount.com"
+  }
+  
