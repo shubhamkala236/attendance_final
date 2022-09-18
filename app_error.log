@@ -144,3 +144,8 @@
 {"level":"error","message":"Tue Aug 02 2022 16:33:07 GMT+0530 (India Standard Time)-{\"name\":\"Cannot read properties of undefined (reading 'employeeId')\",\"statusCode\":401,\"isOperational\":true}","private":true}
 {"level":"error","message":"Tue Aug 02 2022 21:42:50 GMT+0530 (India Standard Time)-{\"name\":\"Internal Server Error\",\"statusCode\":401,\"isOperational\":true}","private":true}
 {"level":"error","message":"Tue Aug 02 2022 22:06:47 GMT+0530 (India Standard Time)-{}","private":true}
+{"level":"error","message":"Mon Sep 19 2022 00:57:30 GMT+0530 (India Standard Time)-{\"name\":\"Internal Server Error\",\"statusCode\":401,\"isOperational\":true}","private":true}
+{"level":"error","message":"Mon Sep 19 2022 00:58:58 GMT+0530 (India Standard Time)-{\"name\":\"Internal Server Error\",\"statusCode\":401,\"isOperational\":true}","private":true}
+{"level":"error","message":"Mon Sep 19 2022 01:26:10 GMT+0530 (India Standard Time)-{\"statusCode\":401}","private":true}
+{"level":"error","message":"Mon Sep 19 2022 01:26:44 GMT+0530 (India Standard Time)-{\"statusCode\":401}","private":true}
+{"level":"error","message":"Mon Sep 19 2022 01:28:23 GMT+0530 (India Standard Time)-{\"statusCode\":401}","private":true}
